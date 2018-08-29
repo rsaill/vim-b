@@ -1,0 +1,5 @@
+{
+    "include": [ ".", "src" ],
+    "resource": "/opt/atelierb/4.2.1/AtelierB",
+    "bcomp": "/opt/atelierb/4.2.1/bbin/linux_x64/bcomp"
+}
